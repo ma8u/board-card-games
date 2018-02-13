@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-## Give examples
+## Themes
 
 A step by step series of examples that tell you have to get a development env running
 
@@ -38,7 +38,6 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-Billie Thompson - Initial work - PurpleBooth
 See also the list of contributors who participated in this project.
 
 ## License

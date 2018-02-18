@@ -1,4 +1,4 @@
- Seeds of life
+# Seeds of life
 A series of problem solving board games about plants and how they can grow together.
 
 ## Getting Started

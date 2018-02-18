@@ -1,4 +1,4 @@
-## Seeds of life
+ Seeds of life
 A series of problem solving board games about plants and how they can grow together.
 
 ## Getting Started
@@ -10,19 +10,19 @@ All you need to play the games is an A4 printer.
 ## Themes
 Every theme is designed for a different complexity level on the way plants can connect with each other. The available themes are described below :
 
-# Stone Age Edition
+### Stone Age Edition
 Description :
 Players :
 Cards :
 Files :
 
-# Full Circle 
+### Full Circle 
 Description :
 Players :
 Cards :
 Files :
 
-# Food Forest
+### Food Forest
 Description :
 Players :
 Cards :

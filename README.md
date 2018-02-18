@@ -1,45 +1,35 @@
 ## Seeds of life
-
 A series of problem solving board games about plants and how they can grow together.
 
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Choose one of the available themes according to your needs, read the instructions, download a copy of the game components and play. An interesting activity (especially with kids) would be to colour the game components as you like.
 
 ## Prerequisites
-
-What things you need to install the software and how to install them
+All you need to play the games is an A4 printer. 
 
 ## Themes
+Every theme is designed for a different complexity level on the way plants can connect with each other. The available themes are described below :
 
-A step by step series of examples that tell you have to get a development env running
+# Stone Age Edition
+Description :
+Players :
+Cards :
+Files :
 
-Say what the step will be
+# Full Circle 
+Description :
+Players :
+Cards :
+Files :
 
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-Running the tests
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
+# Food Forest
+Description :
+Players :
+Cards :
+Files :
 
 ## Authors
-
 See also the list of contributors who participated in this project.
 
 ## License
-
 This project is licensed under the MIT License - see the LICENSE.md file for details

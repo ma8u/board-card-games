@@ -15,7 +15,7 @@ Every theme is designed for a different complexity level on the way plants can c
 + Food Forest : Connecting plants based on their ability to co-exist.
 
 ## Authors
-Project designed by ma8u and son for the purpose of teaching about way some plants grow so well together an others do not. The scheme can be used as a template for a real garden planning exercice by using real plants in every card based on their characteristics.
+Game designed by ma8u and son for the purpose of teaching about ways some plants grow well together and others do not. The scheme can be used as a template for a real garden planning by using real plants in every card based on their characteristics.
 
 ## License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

@@ -10,9 +10,9 @@ All you need to play the games is an A4 printer.
 ## Themes
 Every theme is designed for a different complexity level on the way plants can connect with each other. The available themes are described below :
 
-+ Stone Age Edition : Connecting plants based on their 3 basic needs of water, sun availability and nutrient uptake.
++ Stone Age Edition : Placing seeds side by side based on their 3 basic needs of water, sun availability and nutrient uptake.
 
-+ Full Circle : Connecting plants based on their yearly succession.
++ Full Circle : Connecting plants for yearly succession through the seasons.
 
 + Food Forest : Connecting plants based on their ability to co-exist and help its other out.
 

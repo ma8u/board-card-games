@@ -5,7 +5,7 @@ A series of problem solving card games about plants and how they can grow togeth
 Choose one of the available themes, read the instructions, download a copy of the game components and play. An interesting activity (especially with kids) would be to colour the game components as you like.
 
 ## Prerequisites
-All you need to play the games is an A4 printer. 
+All you need to play the games is an A4/A3 printer. 
 
 ## Themes
 Every theme is designed for a different complexity level on the way plants can connect with each other. The available themes are described below :

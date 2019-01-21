@@ -14,8 +14,8 @@ Every theme is designed for a different complexity level on the way plants can c
 
 + Food Forest : Connecting plants based on their ability to co-exist using Cards with symbols.
 
-## Authors
-This series was developed by ma8u and son for the purpose of learning about ways some plants grow well together and others do not. The scheme can be used as a template for garden planning by using real plants in every card based on their characteristics.
+## Final Notes
+This series was developed for the purpose of learning about ways some plants grow well together and others do not. The scheme can be used as a template for garden planning by using real plants in every card based on their characteristics.
 
 ## License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

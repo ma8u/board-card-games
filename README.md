@@ -1,5 +1,5 @@
-# About
-Apps and crafts on the fields of Science, Technology, Engineering, Arts, Mathematics (S.T.E.A.M.) in the raw form.
+## About
+Apps and crafts on the fields of Science, Technology, Engineering, Arts and Mathematics (S.T.E.A.M.) in the raw form.
 
 ## Getting Started
 Choose one of the available games, read the instructions, download a copy of the game components and play. Extra interesting activity (especially with kids) would be to color the game components as you like.
@@ -8,7 +8,6 @@ Choose one of the available games, read the instructions, download a copy of the
 All you need to play the games is an A4/A3 printer. 
 
 ## Gardening Series
-Every theme is designed for a different complexity level on the way plants can connect with each other. The available themes are described below :
 
 + Seeds of Stone : Placing seeds side by side based on their basic needs using Tokens with symbols.
 + Cards of life : Connecting plants based on their ability to co-exist using Cards with symbols.
